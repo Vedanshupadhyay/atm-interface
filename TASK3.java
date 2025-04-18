@@ -1,5 +1,5 @@
 
-// Quiz application timer
+// ATM INTERFACE
 
 import java.util.*;
 
